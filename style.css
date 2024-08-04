@@ -336,7 +336,7 @@ input {
 }
 
 .bg-gray {
-  background-color: #f5fffd;
+  background-color: #28a74512;
 }
 
 .bg-light {
@@ -3106,12 +3106,14 @@ body,
 .work-process-area .process-items .item p {
   margin: 0;
   font-size: 17px;
+  text-align: justify;
 }
 
 .work-process-area .process-items .item h5 {
   font-weight: 600;
+  font-size: 19px;
+  line-height: 25px;
 }
-
 /* ============================================================== 
      # Process Standard
 =================================================================== */
