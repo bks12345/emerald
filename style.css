@@ -3062,6 +3062,7 @@ body,
 .work-process-area .process-items .item i {
   font-size: 50px;
   opacity: 0.3;
+  color: #000;
 }
 
 .work-process-area .process-items .item span {
